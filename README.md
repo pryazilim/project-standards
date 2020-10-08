@@ -5,6 +5,17 @@ When starting a new [React](https://reactjs.org/) project, please use [Create Re
 ```bash
 npx create-react-app my-app --template typescript
 ```
+
+## Naming Projects
+
+Please use the following table to pick correct prefix for the projects;
+
+| Type of the project | Prefix |
+| :------------ | -----------: |
+| API | api- |
+| Library | library- |
+| FrontEnd | web- |
+| Scheduled Microservice | job- |
 Opinionated standards for projects, such as, Naming Conventions, Best Practices, etc.
 
 [Bash scripting conventions](./Bash-Scripting-Conventions.md)
