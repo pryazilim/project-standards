@@ -1,5 +1,10 @@
 # Project Standards
 
+When starting a new [React](https://reactjs.org/) project, please use [Create React App](https://create-react-app.dev/) package with running the following command;
+
+```bash
+npx create-react-app my-app --template typescript
+```
 Opinionated standards for projects, such as, Naming Conventions, Best Practices, etc.
 
 [Bash scripting conventions](./Bash-Scripting-Conventions.md)
