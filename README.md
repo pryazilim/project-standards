@@ -16,6 +16,27 @@ Please use the following table to pick correct prefix for the projects;
 | Library | library- |
 | FrontEnd | web- |
 | Scheduled Microservice | job- |
+
+## Naming Branches
+
+Please use the following template to name your branch;
+
+`<your alias>/<purpose of the branch>`
+
+* your alias is your _email account without domain_ (for example, _enpolat_, _tolga_, _ugur_, etc.)
+
+* purpose of the branch should be short, descriptive and kebab-cased (for example, _fixing-button-sizes_, _adding-products-list_, _sms-send-module_)
+
+Example branch names;
+
+* _enpolat/dependency-version-bump_
+
+* _berkman/convert-postcss-to-scss_
+
+* _mert/contribution-guideline-update_
+
+## Guidelines
+
 Opinionated standards for projects, such as, Naming Conventions, Best Practices, etc.
 
 [Bash scripting conventions](./Bash-Scripting-Conventions.md)
